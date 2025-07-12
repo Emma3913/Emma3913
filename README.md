@@ -2,13 +2,13 @@
 
 ###
 
-<div align="center">
-  <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
-</div>
+<h5 align="left">👨‍💻 About me<br>Hi, I'm Emmanuel Alexander Vaquero Aquino. I'm a software developer passionate about building functional and well-designed solutions. I currently specialize in front-end development using technologies such as React, TypeScript, and TailwindCSS, although I also have experience working on the backend with Java and Spring Boot, creating RESTful APIs.<br><br>🎓 I have a Bachelor's degree in IT and am currently studying Information Technology Engineering with a focus on Software Development and Management. I have worked with agile methodologies such as SCRUM and use tools such as Git, GitLab, and Docker to control and deploy my projects.</h5>
 
 ###
 
-<h5 align="left">👨‍💻 About me<br>Hi, I'm Emmanuel Alexander Vaquero Aquino. I'm a software developer passionate about building functional and well-designed solutions. I currently specialize in front-end development using technologies such as React, TypeScript, and TailwindCSS, although I also have experience working on the backend with Java and Spring Boot, creating RESTful APIs.<br><br>🎓 I have a Bachelor's degree in IT and am currently studying Information Technology Engineering with a focus on Software Development and Management. I have worked with agile methodologies such as SCRUM and use tools such as Git, GitLab, and Docker to control and deploy my projects.</h5>
+<br clear="both">
+
+<img align="left" height="200" src="https://i.imgflip.com/65efzo.gif"  />
 
 ###
 
@@ -46,19 +46,7 @@
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
-</picture>
-
-###
-
-<div align="center">
-  <a href="https://open.spotify.com/user/31blvefr4wzomn62nq3dzbrcc3te">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31blvefr4wzomn62nq3dzbrcc3te&count=5" alt="Spotify recently played"  />
-  </a>
-</div>
+<img src="https://raw.githubusercontent.com/Emma3913/Emma3913/output/snake.svg" alt="Snake animation" />
 
 ###
 
