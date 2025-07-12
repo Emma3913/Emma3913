@@ -48,7 +48,7 @@
 
 ###
 
-![snake animation](https://github.com/<seu user name>/<seu user name>/blob/output/github-contribution-grid-snake2.svg)
+<img src="![snake animation](https://github.com/Emma3913/Emma3913/blob/output/github-contribution-grid-snake2.svg)" alt="Snake animation" />
 
 ###
 
