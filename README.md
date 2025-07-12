@@ -1,64 +1,61 @@
-<h1 align="center">Hi, i am Alexander👋🐱</h1>
-
-###
-
-<br clear="both">
+<h1 align="center">Hi, I'm Alexander 👋🐱</h1>
 
 <div align="center">
-  <img height="343" src="https://github.com/Emma3913/Emma3913/blob/main/src/img/4.jpeg"  />
+  <img height="343" src="https://github.com/Emma3913/Emma3913/blob/main/src/img/4.jpeg" alt="Profile banner" />
 </div>
 
-###
+---
 
-<h4 align="left">👨‍💻 About me<br>Hi, I'm Emmanuel Alexander Vaquero Aquino. I'm a software developer passionate about building functional and well-designed solutions. I currently specialize in front-end development using technologies such as React, TypeScript, and TailwindCSS, although I also have experience working on the backend with Java and Spring Boot, creating RESTful APIs.<br><br>🎓 I have a Bachelor's degree in IT and am currently studying Information Technology Engineering with a focus on Software Development and Management. I have worked with agile methodologies such as SCRUM and use tools such as Git, GitLab, and Docker to control and deploy my projects.</h4>
+<h4 align="left">👨‍💻 About Me</h4>
 
-###
+<p align="left">
+  I'm Emmanuel Alexander Vaquero Aquino, a passionate software developer focused on building functional, elegant, and scalable solutions. I specialize in front-end development with technologies like <strong>React</strong>, <strong>TypeScript</strong>, and <strong>TailwindCSS</strong>, but I also enjoy diving into the backend using <strong>Java</strong> and <strong>Spring Boot</strong> to build robust RESTful APIs.
+</p>
 
-<h3 align="center">⚙️ Technologies that accompany me on the adventure</h3>
+<p align="left">
+  🎓 I'm currently pursuing a degree in Information Technology Engineering, with a specialization in Software Development and Management. Throughout my journey, I've embraced agile methodologies like <strong>SCRUM</strong> and tools like <strong>Git</strong>, <strong>GitLab</strong>, and <strong>Docker</strong> to manage and deploy my projects efficiently.
+</p>
 
-###
+---
 
-<p align="center">I like to think of development as a journey where each line of code takes me further. These are the tools I carry in my backpack:</p>
+<h3 align="center">⚙️ Technologies I Use on My Journey</h3>
 
-###
+<p align="center">I see software development as an adventure where each line of code brings new learning. Here's my current toolkit:</p>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java" height="51" alt="java logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=spring" height="51" alt="spring logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=react" height="51" alt="react logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ts" height="51" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=js" height="51" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="51" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="51" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=docker" height="51" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="51" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=postgres" height="51" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="51" alt="tailwindcss logo"  />
+  <img src="https://skillicons.dev/icons?i=java" height="51" alt="Java" />
+  <img src="https://skillicons.dev/icons?i=spring" height="51" alt="Spring Boot" />
+  <img src="https://skillicons.dev/icons?i=react" height="51" alt="React" />
+  <img src="https://skillicons.dev/icons?i=ts" height="51" alt="TypeScript" />
+  <img src="https://skillicons.dev/icons?i=js" height="51" alt="JavaScript" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="51" alt="Node.js" />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="51" alt="Next.js" />
+  <img src="https://skillicons.dev/icons?i=docker" height="51" alt="Docker" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="51" alt="MySQL" />
+  <img src="https://skillicons.dev/icons?i=postgres" height="51" alt="PostgreSQL" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="51" alt="TailwindCSS" />
 </div>
 
-###
-
-<img src="https://github.com/Emma3913/Emma3913/blob/output/snake.svg" alt="Snake animation" />
-
-###
-
-
-<h3 align="center">Contact with me ✌️</h3>
+---
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" width="52" height="40" alt="hackerrank logo"  />
+  <img src="https://github.com/Emma3913/Emma3913/blob/output/snake.svg" alt="Snake animation" />
 </div>
 
-###
+---
+
+<h3 align="center">📫 Contact Me</h3>
+
+<p align="center">Feel free to reach out through any of the following platforms:</p>
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/tu-usuario" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="LinkedIn" />
+  </a>
+  <a href="mailto:tu.email@gmail.com">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="Gmail" />
+  </a>
+  <a href="https://www.hackerrank.com/tu-usuario" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" width="52" height="40" alt="HackerRank" />
+  </a>
+</div>
