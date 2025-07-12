@@ -48,7 +48,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Emma3913/Emma3913/blob/output/snake.svg" alt="Snake animation" />
+<img src="https://github.com/Emma3913/Emma3913/blob/output/snake.svg" alt="Snake animation" />
 
 ###
 
