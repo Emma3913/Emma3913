@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Alexander 👋🐱</h1>
+<h1 align="center" style="font-size: 42px; font-weight: 900;">Hi, I'm Alexander 👋🐱</h1>
 
 <div align="center">
   <img height="343" src="https://github.com/Emma3913/Emma3913/blob/main/src/img/1338080.png" alt="Profile banner" />
