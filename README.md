@@ -49,7 +49,7 @@
 <p align="center">Feel free to reach out through any of the following platforms:</p>
 
 <div align="center">
-  <a href="www.linkedin.com/in/emmanuel-alexander" target="_blank">
+  <a href="https://www.linkedin.com/in/emmanuel-alexander/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="LinkedIn" />
   </a>
   <a href="mailto:tu.email@gmail.com">
