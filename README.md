@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Alexander 👋🐱</h1>
 
 <div align="center">
-  <img height="343" src="https://github.com/Emma3913/Emma3913/blob/main/src/img/4.jpeg" alt="Profile banner" />
+  <img height="343" src="https://github.com/Emma3913/Emma3913/blob/main/src/img/1338080.png" alt="Profile banner" />
 </div>
 
 ---
