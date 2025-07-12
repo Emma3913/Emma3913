@@ -2,13 +2,15 @@
 
 ###
 
-<h5 align="left">👨‍💻 About me<br>Hi, I'm Emmanuel Alexander Vaquero Aquino. I'm a software developer passionate about building functional and well-designed solutions. I currently specialize in front-end development using technologies such as React, TypeScript, and TailwindCSS, although I also have experience working on the backend with Java and Spring Boot, creating RESTful APIs.<br><br>🎓 I have a Bachelor's degree in IT and am currently studying Information Technology Engineering with a focus on Software Development and Management. I have worked with agile methodologies such as SCRUM and use tools such as Git, GitLab, and Docker to control and deploy my projects.</h5>
+<br clear="both">
+
+<div align="center">
+  <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
+</div>
 
 ###
 
-<br clear="both">
-
-<img align="left" height="200" src="https://i.imgflip.com/65efzo.gif"  />
+<h4 align="left">👨‍💻 About me<br>Hi, I'm Emmanuel Alexander Vaquero Aquino. I'm a software developer passionate about building functional and well-designed solutions. I currently specialize in front-end development using technologies such as React, TypeScript, and TailwindCSS, although I also have experience working on the backend with Java and Spring Boot, creating RESTful APIs.<br><br>🎓 I have a Bachelor's degree in IT and am currently studying Information Technology Engineering with a focus on Software Development and Management. I have worked with agile methodologies such as SCRUM and use tools such as Git, GitLab, and Docker to control and deploy my projects.</h4>
 
 ###
 
@@ -21,27 +23,27 @@
 ###
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
+  <img src="https://skillicons.dev/icons?i=java" height="51" alt="java logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=spring" height="40" alt="spring logo"  />
+  <img src="https://skillicons.dev/icons?i=spring" height="51" alt="spring logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
+  <img src="https://skillicons.dev/icons?i=react" height="51" alt="react logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
+  <img src="https://skillicons.dev/icons?i=ts" height="51" alt="typescript logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
+  <img src="https://skillicons.dev/icons?i=js" height="51" alt="javascript logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="51" alt="nodejs logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="nextjs logo"  />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="51" alt="nextjs logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
+  <img src="https://skillicons.dev/icons?i=docker" height="51" alt="docker logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
+  <img src="https://skillicons.dev/icons?i=mysql" height="51" alt="mysql logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo"  />
+  <img src="https://skillicons.dev/icons?i=postgres" height="51" alt="postgresql logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo"  />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="51" alt="tailwindcss logo"  />
 </div>
 
 ###
