@@ -1,4 +1,4 @@
-<h1 align="center" style="font-size: 42px; font-weight: 900;">Hi, I'm Alexander 👋🐱</h1>
+<h1 align="center" style="font-size: 42px; font-weight: 900;">Hi, I'm Alexander 👋</h1>
 ---
 
 <h4 align="left">👨‍💻 About Me</h4>
@@ -8,7 +8,7 @@
 </p>
 
 <p align="left">
-  🎓 I'm currently pursuing a degree in Information Technology Engineering, with a specialization in Software Development and Management. Throughout my journey, I've embraced agile methodologies like <strong>SCRUM</strong> and tools like <strong>Git</strong>, <strong>GitLab</strong>, and <strong>Docker</strong> to manage and deploy my projects efficiently.
+  I'm currently pursuing a degree in Information Technology Engineering, with a specialization in Software Development and Management. Throughout my journey, I've embraced agile methodologies like <strong>SCRUM</strong> and tools like <strong>Git</strong>, <strong>GitLab</strong>, and <strong>Docker</strong> to manage and deploy my projects efficiently.
 </p>
 
 ---
